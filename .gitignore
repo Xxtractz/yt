@@ -1,0 +1,22 @@
+# Intellij
+**/.idea/
+.idea/
+*.iml
+*.iws
+out/
+
+# Gradle
+.gradle/
+**/.gradle/
+
+*/bin/*
+bin/
+
+*.class
+**/build/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
